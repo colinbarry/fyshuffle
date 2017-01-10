@@ -1,0 +1,31 @@
+{
+  "name": "fyshuffle",
+  "version": "1.0.0",
+  "description": "Fisher-Yates shuffle",
+  "main": "fyshuffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinBarry/fyshuffle.git"
+  },
+  "keywords": [
+    "array",
+    "shuffle",
+    "Fisher-Yates",
+    "random"
+  ],
+  "author": "Colin Barry <colinbarry@gmail.com> (http://www.the-footage.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ColinBarry/fyshuffle/issues"
+  },
+  "homepage": "https://github.com/ColinBarry/fyshuffle#readme"
+}
