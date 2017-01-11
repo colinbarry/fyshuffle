@@ -24,6 +24,6 @@ Shuffles an array in place. This shuffle is performed using the Fisher-Yates
 algorithm, which is both unbiased and efficient in terms of time and space.
 
 **Parameters**
-* 'array'' the array to shuffle.
+* 'array' the array to shuffle.
 
 **Returns** A reference to `array`
